@@ -1,2 +1,3 @@
 this is the second file created to exercise with git.
 this is an untracked change made before first add.
+this should be part of the second commit only

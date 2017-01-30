@@ -2,3 +2,4 @@ This is a test x.
 of git and how
 to review the changes
 in the text files store in git and github
+This is the new text for this version.
